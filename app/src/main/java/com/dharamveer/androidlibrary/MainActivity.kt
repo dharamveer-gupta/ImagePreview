@@ -54,6 +54,6 @@ fun showToast(ctx: Context, msg: String, length: Int) {
 @Composable
 fun DefaultPreview() {
     AndroidLibraryTheme {
-        ShowImagePreview(description = "Android")
+        ShowImagePreview(description = "Har Har Mahadev!")
     }
 }

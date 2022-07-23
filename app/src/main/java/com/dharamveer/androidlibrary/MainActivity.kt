@@ -38,7 +38,7 @@ fun ShowImagePreview(description: String) {
                 .align(Alignment.Center)
                 .size(150.dp),
             image = "https://png.pngtree.com/png-clipart/20220305/ourmid/pngtree-maha-shivratri-shiv-shankar-png-design-png-image_4472602.png",
-            description = "Hello World",
+            description = "Har Har Mahadev",
             onImageClick = {
                 showToast(localContext, description, Toast.LENGTH_SHORT)
             }
